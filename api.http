@@ -16,3 +16,12 @@ GET http://localhost:8000/book/696a6cde2b7e1d407a8ce5b2 HTTP/1.1
 Content-Type: application/json
 __________________________________________________________________
 
+###
+GET http://localhost:8000/bookmark HTTP/1.1
+Content-Type: application/json
+
+###
+GET http://localhost:8000/bookmark/699eab5d56e09d9abd3088fc HTTP/1.1
+Content-Type: application/json
+__________________________________________________________________
+
